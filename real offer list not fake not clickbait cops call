@@ -1,12 +1,6 @@
 {
   "Offer partners": [
     {
-      "name": "TimeWall",
-      "stars": 4,
-      "brand": ["https://cdn.discordapp.com/attachments/1042147275511701696/1075134264619847800/timewall_logo_on_dark.png","#4BB170"],
-      "iframe": "https://timewall.io/users/login?oid=7edfba668e98e86d&uid=%uid%"
-    },
-    {
       "name": "AdGateMedia",
       "stars": 4,
       "brand": ["https://cdn.discordapp.com/attachments/1075795904952549386/1108538645603962880/62a0f074a18435c5cc3a3ae798825dd5.png","#2F80ED"],
@@ -17,6 +11,12 @@
       "stars": 3,
       "brand": ["https://cdn.discordapp.com/attachments/1042147275511701696/1115586877995626596/OfferToro.png","#E73A3B"],
       "iframe": "https://www.offertoro.com/ifr/show/20676/%uid%/9177"
+    },
+    {
+      "name": "TimeWall",
+      "stars": 4,
+      "brand": ["https://cdn.discordapp.com/attachments/1042147275511701696/1075134264619847800/timewall_logo_on_dark.png","#4BB170"],
+      "iframe": "https://timewall.io/users/login?oid=7edfba668e98e86d&uid=%uid%"
     }
   ],
   "Survey partners": [
