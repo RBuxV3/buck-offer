@@ -15,7 +15,7 @@
     {
       "name": "OfferToro",
       "stars": 3,
-      "brand": ["https://cdn.discordapp.com/attachments/1075795904952549386/1108538954296332338/offertoro-logo.png","#E73A3B"],
+      "brand": ["https://cdn.discordapp.com/attachments/1042147275511701696/1115586877995626596/OfferToro.png","#E73A3B"],
       "iframe": "https://www.offertoro.com/ifr/show/20676/%uid%/9177"
     }
   ],
@@ -23,7 +23,7 @@
     {
       "name": "CPX Research",
       "stars": 5,
-      "brand": ["https://cdn.discordapp.com/attachments/1075795904952549386/1108538308151222293/logo.png","#FFFFFF"],
+      "brand": ["https://cdn.discordapp.com/attachments/1042147275511701696/1115588073653272687/CPX.png","#FFFFFF"],
       "iframe": "https://offers.cpx-research.com/index.php?app_id=13280&ext_user_id=%uid%&username=%uname%"
     }
   ]
