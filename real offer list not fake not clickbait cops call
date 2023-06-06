@@ -4,25 +4,33 @@
       "name": "TimeWall",
       "stars": 4,
       "image": "https://cdn.discordapp.com/attachments/1042147275511701696/1075134264619847800/timewall_logo_on_dark.png",
-      "iframe": "https://timewall.io/users/login?oid=7edfba668e98e86d&uid=USERID"
+      "iframe": "https://timewall.io/users/login?oid=7edfba668e98e86d&uid=USERID",
+      "category": 0,
+      "accent": "#4BB170"
     },
     {
       "name": "CPX Research",
       "stars": 5,
       "image": "https://cdn.discordapp.com/attachments/1075795904952549386/1108538308151222293/logo.png",
-      "iframe": "https://offers.cpx-research.com/index.php?app_id=13280&ext_user_id=USERID&username=USERNAME"
+      "iframe": "https://offers.cpx-research.com/index.php?app_id=13280&ext_user_id=USERID&username=USERNAME",
+      "category": 1,
+      "accent": "#FFFFFF"
     },
     {
       "name": "AdGateMedia",
       "stars": 4,
       "image": "https://cdn.discordapp.com/attachments/1075795904952549386/1108538645603962880/62a0f074a18435c5cc3a3ae798825dd5.png",
-      "iframe": "https://wall.adgaterewards.com/nqqUrw/USERIDHERE"
+      "iframe": "https://wall.adgaterewards.com/nqqUrw/USERIDHERE",
+      "category": 0,
+      "accent": "#2F80ED"
     },
     {
       "name": "OfferToro",
       "stars": 3,
       "image": "https://cdn.discordapp.com/attachments/1075795904952549386/1108538954296332338/offertoro-logo.png",
-      "iframe": "https://www.offertoro.com/ifr/show/20676/USER_ID/9177"
+      "iframe": "https://www.offertoro.com/ifr/show/20676/USER_ID/9177",
+      "category": 0,
+      "accent": "#E73A3B"
     }
   ]
 }
