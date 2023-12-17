@@ -1,21 +1,21 @@
 {
   "Offer partners": [
     {
-      "name": "AdGateMedia",
+      "name": "AdGate Media",
       "stars": 4,
-      "brand": ["https://cdn.discordapp.com/attachments/1075795904952549386/1108538645603962880/62a0f074a18435c5cc3a3ae798825dd5.png","#2F80ED"],
+      "brand": ["https://files.catbox.moe/y88om4.png","#2F80ED"],
       "iframe": "https://wall.adgaterewards.com/nqqUrw/%uid%"
     },
     {
       "name": "OfferToro",
       "stars": 3,
-      "brand": ["https://cdn.discordapp.com/attachments/711146330633797654/1186019319050686474/offertoro_1.png","#E73A3B"],
+      "brand": ["https://files.catbox.moe/9hmsj1.png","#E73A3B"],
       "iframe": "https://www.offertoro.com/ifr/show/20676/%uid%/9177"
     },
     {
       "name": "TimeWall",
       "stars": 4,
-      "brand": ["https://cdn.discordapp.com/attachments/1042147275511701696/1075134264619847800/timewall_logo_on_dark.png","#4BB170"],
+      "brand": ["https://files.catbox.moe/l335yt.png","#4BB170"],
       "iframe": "https://timewall.io/users/login?oid=7edfba668e98e86d&uid=%uid%"
     }
   ],
@@ -23,7 +23,7 @@
     {
       "name": "CPX Research",
       "stars": 5,
-      "brand": ["https://cdn.discordapp.com/attachments/711146330633797654/1186019318366998639/offertoro_3.png","#FFFFFF"],
+      "brand": ["https://files.catbox.moe/0grn7u.png","#FFFFFF"],
       "iframe": "https://offers.cpx-research.com/index.php?app_id=13280&ext_user_id=%uid%&username=%uname%"
     }
   ]
